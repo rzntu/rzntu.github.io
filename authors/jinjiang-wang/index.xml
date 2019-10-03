@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinjiang Wang | Rui Zhao&#39;s Homepage</title>
+    <link>https://rzntu.github.io/authors/jinjiang-wang/</link>
+      <atom:link href="https://rzntu.github.io/authors/jinjiang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinjiang Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rzntu.github.io/img/icon-192.png</url>
+      <title>Jinjiang Wang</title>
+      <link>https://rzntu.github.io/authors/jinjiang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Multi-level information fusion for induction motor fault diagnosis</title>
+      <link>https://rzntu.github.io/publication/wang-2019-multi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/wang-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine health monitoring using local feature-based gated recurrent unit networks</title>
+      <link>https://rzntu.github.io/publication/zhao-2017-machine/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhao-2017-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new probabilistic kernel factor analysis for multisensory data fusion: application to tool condition monitoring</title>
+      <link>https://rzntu.github.io/publication/wang-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/wang-2016-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

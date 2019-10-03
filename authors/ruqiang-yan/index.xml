@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruqiang Yan | Rui Zhao&#39;s Homepage</title>
+    <link>https://rzntu.github.io/authors/ruqiang-yan/</link>
+      <atom:link href="https://rzntu.github.io/authors/ruqiang-yan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruqiang Yan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rzntu.github.io/img/icon-192.png</url>
+      <title>Ruqiang Yan</title>
+      <link>https://rzntu.github.io/authors/ruqiang-yan/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning and its applications to machine health monitoring</title>
+      <link>https://rzntu.github.io/publication/zhao-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhao-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional discriminative feature learning for induction motor fault diagnosis</title>
+      <link>https://rzntu.github.io/publication/sun-2017-convolutional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/sun-2017-convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine health monitoring using local feature-based gated recurrent unit networks</title>
+      <link>https://rzntu.github.io/publication/zhao-2017-machine/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhao-2017-machine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

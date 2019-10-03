@@ -1,16 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rui Zhao&#39;s Home Page</title>
+    <title>Rui Zhao&#39;s Homepage</title>
     <link>https://rzntu.github.io/</link>
       <atom:link href="https://rzntu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rui Zhao&#39;s Home Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Rui Zhao&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rzntu.github.io/img/icon-192.png</url>
-      <title>Rui Zhao&#39;s Home Page</title>
+      <title>Rui Zhao&#39;s Homepage</title>
       <link>https://rzntu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Deep learning and its applications to machine health monitoring</title>
+      <link>https://rzntu.github.io/publication/zhao-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhao-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-level information fusion for induction motor fault diagnosis</title>
+      <link>https://rzntu.github.io/publication/wang-2019-multi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/wang-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building occupancy estimation with environmental sensors via CDBLSTM</title>
+      <link>https://rzntu.github.io/publication/chen-2017-building/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/chen-2017-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional discriminative feature learning for induction motor fault diagnosis</title>
+      <link>https://rzntu.github.io/publication/sun-2017-convolutional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/sun-2017-convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy bag-of-words model for document representation</title>
+      <link>https://rzntu.github.io/publication/zhao-2017-fuzzy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhao-2017-fuzzy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine health monitoring using local feature-based gated recurrent unit networks</title>
+      <link>https://rzntu.github.io/publication/zhao-2017-machine/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhao-2017-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new probabilistic kernel factor analysis for multisensory data fusion: application to tool condition monitoring</title>
+      <link>https://rzntu.github.io/publication/wang-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/wang-2016-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberbullying detection based on semantic-enhanced marginalized denoising auto-encoder</title>
+      <link>https://rzntu.github.io/publication/zhao-2016-cyberbullying/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhao-2016-cyberbullying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiview convolutional neural networks for multidocument extractive summarization</title>
+      <link>https://rzntu.github.io/publication/zhang-2016-multiview/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhang-2016-multiview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic-aware deep compositional models for sentence classification</title>
+      <link>https://rzntu.github.io/publication/zhao-2016-topic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhao-2016-topic/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

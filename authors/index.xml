@@ -1,16 +1,184 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Rui Zhao&#39;s Home Page</title>
+    <title>Authors | Rui Zhao&#39;s Homepage</title>
     <link>https://rzntu.github.io/authors/</link>
       <atom:link href="https://rzntu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rzntu.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://rzntu.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Jinjiang Wang</title>
+      <link>https://rzntu.github.io/authors/jinjiang-wang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/jinjiang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kezhi Mao</title>
+      <link>https://rzntu.github.io/authors/kezhi-mao/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/kezhi-mao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laibin Zhang</title>
+      <link>https://rzntu.github.io/authors/laibin-zhang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/laibin-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peilun Fu</title>
+      <link>https://rzntu.github.io/authors/peilun-fu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/peilun-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Wang</title>
+      <link>https://rzntu.github.io/authors/peng-wang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/peng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert X Gao</title>
+      <link>https://rzntu.github.io/authors/robert-x-gao/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/robert-x-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rui Zhao</title>
+      <link>https://rzntu.github.io/authors/rui-zhao/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/rui-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruqiang Yan</title>
+      <link>https://rzntu.github.io/authors/ruqiang-yan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/ruqiang-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhenghua Chen</title>
+      <link>https://rzntu.github.io/authors/zhenghua-chen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/zhenghua-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dongzhe Wang</title>
+      <link>https://rzntu.github.io/authors/dongzhe-wang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/dongzhe-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fei Shen</title>
+      <link>https://rzntu.github.io/authors/fei-shen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/fei-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mustafa K Masood</title>
+      <link>https://rzntu.github.io/authors/mustafa-k-masood/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/mustafa-k-masood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingchang Zhu</title>
+      <link>https://rzntu.github.io/authors/qingchang-zhu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/qingchang-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siyu Shao</title>
+      <link>https://rzntu.github.io/authors/siyu-shao/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/siyu-shao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenjun Sun</title>
+      <link>https://rzntu.github.io/authors/wenjun-sun/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/wenjun-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xuefeng Chen</title>
+      <link>https://rzntu.github.io/authors/xuefeng-chen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/xuefeng-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeng Chai Soh</title>
+      <link>https://rzntu.github.io/authors/yeng-chai-soh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/yeng-chai-soh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junyao Xie</title>
+      <link>https://rzntu.github.io/authors/junyao-xie/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/junyao-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahardhika Pratama</title>
+      <link>https://rzntu.github.io/authors/mahardhika-pratama/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/mahardhika-pratama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meng Joo Er</title>
+      <link>https://rzntu.github.io/authors/meng-joo-er/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/meng-joo-er/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Zhang</title>
+      <link>https://rzntu.github.io/authors/yong-zhang/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/yong-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

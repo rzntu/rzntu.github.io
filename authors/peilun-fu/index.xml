@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peilun Fu | Rui Zhao&#39;s Homepage</title>
+    <link>https://rzntu.github.io/authors/peilun-fu/</link>
+      <atom:link href="https://rzntu.github.io/authors/peilun-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peilun Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rzntu.github.io/img/icon-192.png</url>
+      <title>Peilun Fu</title>
+      <link>https://rzntu.github.io/authors/peilun-fu/</link>
+    </image>
+    
+    <item>
+      <title>Multi-level information fusion for induction motor fault diagnosis</title>
+      <link>https://rzntu.github.io/publication/wang-2019-multi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/wang-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

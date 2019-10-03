@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meng Joo Er | Rui Zhao&#39;s Homepage</title>
+    <link>https://rzntu.github.io/authors/meng-joo-er/</link>
+      <atom:link href="https://rzntu.github.io/authors/meng-joo-er/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meng Joo Er</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rzntu.github.io/img/icon-192.png</url>
+      <title>Meng Joo Er</title>
+      <link>https://rzntu.github.io/authors/meng-joo-er/</link>
+    </image>
+    
+    <item>
+      <title>Multiview convolutional neural networks for multidocument extractive summarization</title>
+      <link>https://rzntu.github.io/publication/zhang-2016-multiview/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/zhang-2016-multiview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
