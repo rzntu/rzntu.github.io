@@ -3,27 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rzntu.github.io/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://rzntu.github.io/courses/course2/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rzntu.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rzntu.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rzntu.github.io/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rzntu.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rzntu.github.io/</loc>
   </url>
   
   <url>
