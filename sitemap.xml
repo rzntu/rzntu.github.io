@@ -211,10 +211,6 @@
   </url>
   
   <url>
-    <loc>https://rzntu.github.io/courses/</loc>
-  </url>
-  
-  <url>
     <loc>https://rzntu.github.io/post/</loc>
   </url>
   
@@ -224,6 +220,10 @@
   
   <url>
     <loc>https://rzntu.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rzntu.github.io/courses/</loc>
   </url>
   
   <url>
