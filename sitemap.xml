@@ -17,10 +17,6 @@
   </url>
   
   <url>
-    <loc>https://rzntu.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://rzntu.github.io/authors/</loc>
   </url>
   
@@ -46,6 +42,10 @@
   
   <url>
     <loc>https://rzntu.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rzntu.github.io/</loc>
   </url>
   
   <url>
