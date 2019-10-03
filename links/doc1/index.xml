@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Useful links for Data Science | Rui Zhao&#39;s Homepage</title>
+    <link>https://rzntu.github.io/links/doc1/</link>
+      <atom:link href="https://rzntu.github.io/links/doc1/index.xml" rel="self" type="application/rss+xml" />
+    <description>Useful links for Data Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rzntu.github.io/img/icon-192.png</url>
+      <title>Useful links for Data Science</title>
+      <link>https://rzntu.github.io/links/doc1/</link>
+    </image>
+    
+  </channel>
+</rss>
