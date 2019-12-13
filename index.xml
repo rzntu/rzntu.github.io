@@ -82,7 +82,15 @@
 
 &lt;h3 id=&#34;ch5-6-depth-analysis-of-trend-following-performance&#34;&gt;CH5-6: Depth Analysis of Trend-Following Performance&lt;/h3&gt;
 
-&lt;p&gt;Long side showing a smoother upwards profile and the short side a more dynamic burst-style return. The short side is far less profitable and in fact often ends up losing money for extended periods of time; but it still adds value by acting a  volatility stabiliser as well as providing substantial gain in extreme market situations.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Long side showing a smoother upwards profile and the short side a more dynamic burst-style return. The short side is far less profitable and in fact often ends up losing money for extended periods of time; but it still adds value by acting a  volatility stabiliser as well as providing substantial gain in extreme market situations.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Diversified trend following is prone to extreme periods of success followed by sharp decliunes and sideways choppy markets.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Generally speaking, commodities tend to do better when dollar is trending down.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;For trending algos, the short side is a much needed stabiliser over time&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -91,7 +99,24 @@
       <link>https://rzntu.github.io/post/advances-in-financial-machine-learning/</link>
       <pubDate>Mon, 03 Jun 2019 23:45:01 +0800</pubDate>
       <guid>https://rzntu.github.io/post/advances-in-financial-machine-learning/</guid>
-      <description></description>
+      <description>
+
+&lt;h1 id=&#34;advances-in-financial-machine-learning&#34;&gt;Advances in Financial Machine Learning&lt;/h1&gt;
+
+&lt;p&gt;This is a very practical book for the application of machine learning in quant trading. The most insighful point behind this book is the reasons that standard machine learning tools fail when applied to the field of finance. In addition, I will try to implement(or fork) some ideas in this book in the &lt;a href=&#34;https://github.com/rz0718/quant_models&#34; target=&#34;_blank&#34;&gt;github repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;part1-data-analysis&#34;&gt;PART1: DATA ANALYSIS&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Term Structure:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The fair price of any position is the cost of hedging it, so if you can hedge something you can also price it.&lt;/li&gt;
+&lt;li&gt;For financial futures such as index and bond ones, the interest rate is the main driver of the term structure shape that is less of a steep curve for financial curses than for deliverable ones.&lt;/li&gt;
+&lt;li&gt;Backwardation can be caused by seasonality, interest rate conditions or unusual storage cost situations and is not uncommon for softs and perishable commodities.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
