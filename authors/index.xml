@@ -5,7 +5,7 @@
     <link>https://rzntu.github.io/authors/</link>
       <atom:link href="https://rzntu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rzntu.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Jinjiang Wang</title>
       <link>https://rzntu.github.io/authors/jinjiang-wang/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://rzntu.github.io/authors/jinjiang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert X Gao</title>
+      <link>https://rzntu.github.io/authors/robert-x-gao/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/robert-x-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rui Zhao</title>
+      <link>https://rzntu.github.io/authors/rui-zhao/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/authors/rui-zhao/</guid>
       <description></description>
     </item>
     
@@ -49,22 +65,6 @@
       <link>https://rzntu.github.io/authors/peng-wang/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://rzntu.github.io/authors/peng-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert X Gao</title>
-      <link>https://rzntu.github.io/authors/robert-x-gao/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://rzntu.github.io/authors/robert-x-gao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rui Zhao</title>
-      <link>https://rzntu.github.io/authors/rui-zhao/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://rzntu.github.io/authors/rui-zhao/</guid>
       <description></description>
     </item>
     

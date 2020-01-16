@@ -5,12 +5,20 @@
     <link>https://rzntu.github.io/publication/</link>
       <atom:link href="https://rzntu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rzntu.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://rzntu.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Probabilistic Transfer Factor Analysis for Machinery Autonomous Diagnosis Cross Various Operating Conditions</title>
+      <link>https://rzntu.github.io/publication/wang-2020-tf/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rzntu.github.io/publication/wang-2020-tf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep learning and its applications to machine health monitoring</title>

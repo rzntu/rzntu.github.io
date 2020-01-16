@@ -5,12 +5,117 @@
     <link>https://rzntu.github.io/post/</link>
       <atom:link href="https://rzntu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Jun 2019 21:54:22 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2020 21:54:22 +0800</lastBuildDate>
     <image>
       <url>https://rzntu.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://rzntu.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>20 For Twenty</title>
+      <link>https://rzntu.github.io/post/20-for-twenty/</link>
+      <pubDate>Wed, 08 Jan 2020 21:54:22 +0800</pubDate>
+      <guid>https://rzntu.github.io/post/20-for-twenty/</guid>
+      <description>
+
+&lt;h1 id=&#34;selected-papers-from-aqr-capital-management&#34;&gt;Selected Papers from AQR Capital Management&lt;/h1&gt;
+
+&lt;p&gt;Even AQR have not so decent performances during recent years, it is still meaningful to read some academic papers related to quant trading/markets.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-great-divide&#34;&gt;The Great Divide&lt;/h2&gt;
+
+&lt;p&gt;For efficient market hypothesis that the simple statement that security prices fully reflect all available information, there is always a debate. Here, AQR founders provide their own insights toward this debate.&lt;/p&gt;
+
+&lt;p&gt;Firstly, they pointed out that to make any statement about market efficiency, you need to make some assertion of how the market should reflect information. Therefore, here is a joint hypothesis. For example, CAPM model defines that how prices are set. Therefore, we can not tell which of two ideas you are rejecting from the evidences.&lt;/p&gt;
+
+&lt;p&gt;For the joint of CAPM and EMH, the microchallenges are value and momentum methods. Value can be the HML (High minus low) that goes long a diversified portfolio of high booktoprice ratios and short the one of low booktoprice ratios. Momentum can be trend-following. To reject the CAPM and EMH, two kinds of arguments have been proposed as:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;risk: market beta is not the only source of risk. The higher expected return of cheap stocks is rational, as it reflects higher risk.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;behaviorists: behavior biases cause prices to get too high or too low. For instance, investors may overextrapolate both good and bad news thus long too much or short too much.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;TBU.&lt;/p&gt;
+
+&lt;h2 id=&#34;buffett-s-alpha&#34;&gt;Buffett&amp;rsquo;s Alpha&lt;/h2&gt;
+
+&lt;p&gt;In this paper, they did a very detailed empirical analysis of Buffett&amp;rsquo;s results to hack the investment style. They are trying to replicate it in an systemmatic way.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;This paper suggest that Buffett’s success is neither luck nor magic but is a reward for a successful implementation of value and quality exposures that have historically produced high returns.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Buffett applies a lverage of about 1.7 to 1.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Stock-selection is the key: buy stocks that are safe (with low beta and low volatility), cheap (i.e., value stocks with low price-to-book ratios) and of high quality (profitable, stable, and growing stocks with high payout ratios)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Although optimistic asset managers often claim to be able to achieve Sharpe ratios above 1 or
+2 and many chief investment officers seek similarly high performance numbers, our results
+suggest that long-term investors might do well to set a realistic performance goal and brace
+themselves for the tough periods that even Buffett has experienced. Indeed, because Buffett became one of the richest people in the world with a &lt;strong&gt;Sharpe ratio of 0.79&lt;/strong&gt;, most investors should seek to actually deliver a Sharpe ratio somewhere between this number and the
+market’s Sharpe ratio, which was around 0.5 during this sample period, rather than making
+suboptimal investments in a futile attempt to consistently reach a much higher number&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;ch4-two-basic-trend-following-strategies&#34;&gt;CH4: Two Basic Trend-following Strategies&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advances in Financial Machine Learning</title>
+      <link>https://rzntu.github.io/post/advances-in-financial-machine-learning/</link>
+      <pubDate>Fri, 08 Nov 2019 21:54:22 +0800</pubDate>
+      <guid>https://rzntu.github.io/post/advances-in-financial-machine-learning/</guid>
+      <description>
+
+&lt;h2 id=&#34;advances-in-financial-machine-learning&#34;&gt;Advances in Financial Machine Learning&lt;/h2&gt;
+
+&lt;p&gt;Lots of insights on practical aspects of machine learning in finances have been shared in this book. Some of them are quite useful. But the author sometimes tend to make the simple or very intuitive problem/solution seems very complex and fuzzy. In this random notes, I may write down some of my random ideas.&lt;/p&gt;
+
+&lt;h3 id=&#34;ch2-financial-data-structures&#34;&gt;CH2: Financial Data Structures&lt;/h3&gt;
+
+&lt;p&gt;The main topic in this chapter is that how do we form the bar.  Usually, the charts/technical analysis are performed upon the time-sampled bar. Each bar means the information sampled from a fixed interval. Then, the drawback is that time bars oversample information during low-activity periods and undersample information during high-activity periods. The low-activity and high-activity may refer to the trading volume. Then, several information-driven bars have been proposed. The core idea is that we want to sample the information evenly. Different information measures lead to different methods. For example, the volume, the volume*price, the number of ticks. And &lt;strong&gt;it is claimed that sampling as a function of trading activity allows us to achieve returns closer to IID Normal&lt;/strong&gt;. (I am not sure why is it)&lt;/p&gt;
+
+&lt;p&gt;At last, I think this bar sampling technique is one of representation learning. In machine learning, how do we convert the unstructured data into structured one. Here, it do the same thing. Time series to the bar that be stored in a csv format.&lt;/p&gt;
+
+&lt;p&gt;From my own experiments, MACD applied on some information-driven bars have not shown good performance. I am not sure it is the problems behind the technical analysis or the bars themselves.&lt;/p&gt;
+
+&lt;h3 id=&#34;ch3-labeling&#34;&gt;CH3: Labeling&lt;/h3&gt;
+
+&lt;p&gt;How to define y in machine learning for trading strategy. The authors propose a triple-barrier methods, which involve some interesting ideas:&lt;/p&gt;
+
+&lt;p&gt;for example, we want to label one tradable product at time T.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Define a maximum holding period N, then we will look at T: T+N&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Based on the recent volatility, two horizontal lines are introduced indicating profit-taking and cut-loss lines.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The label will depend on the order of the touched lines.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The advantage is that it consider the price change path instead of the absoulte change p(T+N) - p(T). However, the concern may that how do we define the horizontal lines. It involves some hyperparameters, which may be very tricky. In addition, it is also unsure that in which frequency, we should look at the touched lines. For example, if we label the data at 30 mins, we can use any time frequency higher than 30 mins to check which line will be touched firstly.&lt;/p&gt;
+
+&lt;p&gt;At the same time, the meta-label was also introduced by the author. At the same time, in ml research community, meta-learnin is also popular. The meta-label idea is that we add second layer label/classifier. The first layer will be any trading strategy, which will do timing/generate buy sell points. Then, the second layer label will be the size betting. The second layer label will be only 1 and 0, which means if the trade we entered at time T, can we have profit. The classifier may have the prob. output. This continus and normalized output can be the size we predict.&lt;/p&gt;
+
+&lt;h3 id=&#34;ch11-the-dangers-of-backtesting&#34;&gt;Ch11: The Dangers of Backtesting&lt;/h3&gt;
+
+&lt;p&gt;This chapter is talking about the issues of data leakage in the context of trading algorithms development. Some sentences may be highlighed in case I made the same mistakes in my daily job.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;The point of a backtest is a sanity check on a number of variables, including bet sizing, turnover, resilience to costs, and behavior under a given scenario.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The maddening thing about backtesting is that, the better you become at it, the more likely false discoveries will pop up.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The purpose of backtesting is to &lt;strong&gt;discard bad models, not to improve them&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What makes backtest overfitting so hard to access is that the probability of false positive changes with every new test conducted on the same dataset.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One of measures named Probability of Backtest Overfitting was proposed. The input is a return matrix: one dimension is time axis and the other dimension is the algorithms. The idea is that based on the training period, the best algo should perform above the median in the testing period. And simialr to cross-validation, PBO fakely generated lots of pairs of training and testing. Then, based on a large number of simulations, the probability score could be inferred.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Following the Trend</title>
@@ -90,31 +195,6 @@
 &lt;li&gt;&lt;p&gt;Generally speaking, commodities tend to do better when dollar is trending down.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;For trending algos, the short side is a much needed stabiliser over time&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advances in Financial Machine Learning</title>
-      <link>https://rzntu.github.io/post/advances-in-financial-machine-learning/</link>
-      <pubDate>Mon, 03 Jun 2019 23:45:01 +0800</pubDate>
-      <guid>https://rzntu.github.io/post/advances-in-financial-machine-learning/</guid>
-      <description>
-
-&lt;h1 id=&#34;advances-in-financial-machine-learning&#34;&gt;Advances in Financial Machine Learning&lt;/h1&gt;
-
-&lt;p&gt;This is a very practical book for the application of machine learning in quant trading. The most insighful point behind this book is the reasons that standard machine learning tools fail when applied to the field of finance. In addition, I will try to implement(or fork) some ideas in this book in the &lt;a href=&#34;https://github.com/rz0718/quant_models&#34; target=&#34;_blank&#34;&gt;github repo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;part1-data-analysis&#34;&gt;PART1: DATA ANALYSIS&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Term Structure:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The fair price of any position is the cost of hedging it, so if you can hedge something you can also price it.&lt;/li&gt;
-&lt;li&gt;For financial futures such as index and bond ones, the interest rate is the main driver of the term structure shape that is less of a steep curve for financial curses than for deliverable ones.&lt;/li&gt;
-&lt;li&gt;Backwardation can be caused by seasonality, interest rate conditions or unusual storage cost situations and is not uncommon for softs and perishable commodities.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
